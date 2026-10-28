@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://tellem.tech">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tellem-tech/.github/main/profile/assets/tellem-dark.svg">
-      <img src="https://raw.githubusercontent.com/tellem-tech/.github/main/profile/assets/tellem-light.svg" alt="Tellem" width="280">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tellem-tech/.github/main/profile/assets/tellem-crm-dark.svg">
+      <img src="https://raw.githubusercontent.com/tellem-tech/.github/main/profile/assets/tellem-crm-light.svg" alt="Tellem" width="280">
     </picture>
   </a>
 
@@ -26,7 +26,7 @@
 | Задача | Возможности |
 | --- | --- |
 | **Понимать гостей** | Карточки клиентов с историей заказов и бонусным счётом. [RFM-анализ](https://docs.tellem.tech/modules/crm/analytics/) группирует гостей по давности, частоте и сумме покупок. |
-| **Возвращать клиентов** | [Рассылки](https://docs.tellem.tech/modules/crm/mass-mailings/) сразу или по расписанию — всем подписанным клиентам или выбранным RFM-группам. Telegram, VK и почта доступны при подключении канала и разрешении клиента. |
+| **Возвращать клиентов** | [Рассылки](https://docs.tellem.tech/modules/crm/mass-mailings/) сразу или по расписанию для одной точки — всем подписанным клиентам или выбранным RFM-группам. Telegram, VK и почта доступны при подключении канала и разрешении клиента. |
 | **Развивать лояльность** | [Акции, промокоды и бонусы](https://docs.tellem.tech/modules/crm/marketing/) для следующих покупок. |
 | **Оценивать результат** | [Аналитика](https://docs.tellem.tech/modules/crm/analytics/) продаж, повторных покупок и удержания клиентов, включая когортные отчёты. |
 | **Принимать заказы** | [Клиентское приложение](https://docs.tellem.tech/modules/app/) с каталогом, корзиной и оплатой. Работает в браузере, а при подключённом боте — внутри Telegram. |
