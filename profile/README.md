@@ -1,4 +1,6 @@
 <div align="center">
+  <p><b>Русский</b> · <a href="https://github.com/tellem-tech/.github/blob/main/profile/README.en.md">English</a></p>
+
   <a href="https://tellem.tech">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tellem-tech/.github/main/profile/assets/tellem-crm-dark.svg">
@@ -45,16 +47,3 @@
 Здесь мы ведём разработку продукта и поддерживаем [открытую документацию](https://github.com/tellem-tech/tellem-docs) на русском и английском языках. Исходный код продукта находится в закрытых репозиториях.
 
 Нашли неточность в инструкции? [Создайте issue в репозитории документации](https://github.com/tellem-tech/tellem-docs/issues). По вопросам работы продукта обращайтесь в [поддержку](https://t.me/tellem_tech_bot).
-
----
-
-<details>
-<summary><b>English</b></summary>
-
-**Tellem is a CRM and retention marketing platform for restaurants.** It brings together customer profiles, RFM analysis, messaging campaigns, loyalty tools and repeat-purchase analytics. Customers can browse the catalog and place orders in a browser or, with a connected bot, in Telegram.
-
-[Website](https://tellem.tech/en) · [Demo storefront](https://tellem.store/) · [English documentation](https://docs.tellem.tech/en/) · [Contact the team](https://t.me/tellem_tech_bot)
-
-Product source code is private. Our [documentation repository](https://github.com/tellem-tech/tellem-docs) is public; corrections and issue reports are welcome.
-
-</details>
